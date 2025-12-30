@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/ads.txt",
-      "destination": "https://adsense.hitbar.xyz/ads.txt",
-      "permanent": true
-    }
-  ]
-}
